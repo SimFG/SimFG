@@ -12,9 +12,9 @@ I'm SimFG.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14106](https://github.com/etcd-io/etcd/issues/14106) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-2. 💪 Opened PR [#14106](https://github.com/etcd-io/etcd/pull/14106) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-3. 🗣 Commented on [#14084](https://github.com/etcd-io/etcd/issues/14084) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-4. 💪 Opened PR [#17348](https://github.com/milvus-io/milvus/pull/17348) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#14109](https://github.com/etcd-io/etcd/pull/14109) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+3. 🗣 Commented on [#14106](https://github.com/etcd-io/etcd/issues/14106) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+4. 💪 Opened PR [#14106](https://github.com/etcd-io/etcd/pull/14106) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 5. 🗣 Commented on [#14084](https://github.com/etcd-io/etcd/issues/14084) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 <!--END_SECTION:activity-->
 
