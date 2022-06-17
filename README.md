@@ -4,6 +4,8 @@ I'm SimFG.
 
 ![Metrics](/metrics.plugin.followup.user.svg)
 
+![SimFG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimFG&show_icons=true&theme=radical&count_private=true)
+
 📫 How to reach me:
 
 [![Connect on Mail](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:1142838399@qq.com)
