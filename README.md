@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/whuanle/lsm/pull/4) in [whuanle/lsm](https://github.com/whuanle/lsm)
-2. 💪 Opened PR [#3](https://github.com/whuanle/lsm/pull/3) in [whuanle/lsm](https://github.com/whuanle/lsm)
-3. ❗️ Closed issue [#17604](https://github.com/milvus-io/milvus/issues/17604) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#17605](https://github.com/milvus-io/milvus/issues/17605) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#17605](https://github.com/milvus-io/milvus/pull/17605) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 🗣 Commented on [#17606](https://github.com/milvus-io/milvus/issues/17606) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#1041](https://github.com/milvus-io/pymilvus/pull/1041) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+3. 🗣 Commented on [#17673](https://github.com/milvus-io/milvus/issues/17673) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#17673](https://github.com/milvus-io/milvus/pull/17673) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. ❗️ Opened issue [#17672](https://github.com/milvus-io/milvus/issues/17672) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
