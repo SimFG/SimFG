@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14157](https://github.com/etcd-io/etcd/pull/14157) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-2. 💪 Opened PR [#14153](https://github.com/etcd-io/etcd/pull/14153) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-3. ❗️ Closed issue [#17762](https://github.com/milvus-io/milvus/issues/17762) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. ❌ Closed PR [#17763](https://github.com/milvus-io/milvus/pull/17763) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#17763](https://github.com/milvus-io/milvus/pull/17763) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 💪 Opened PR [#14173](https://github.com/etcd-io/etcd/pull/14173) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+2. ❌ Closed PR [#14171](https://github.com/etcd-io/etcd/pull/14171) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+3. 💪 Opened PR [#14172](https://github.com/etcd-io/etcd/pull/14172) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+4. 💪 Opened PR [#14171](https://github.com/etcd-io/etcd/pull/14171) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+5. 💪 Opened PR [#14157](https://github.com/etcd-io/etcd/pull/14157) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 <!--END_SECTION:activity-->
 
