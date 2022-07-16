@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14212](https://github.com/etcd-io/etcd/issues/14212) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-2. ❗️ Opened issue [#14224](https://github.com/etcd-io/etcd/issues/14224) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-3. 🗣 Commented on [#18238](https://github.com/milvus-io/milvus/issues/18238) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 💪 Opened PR [#18238](https://github.com/milvus-io/milvus/pull/18238) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#14212](https://github.com/etcd-io/etcd/pull/14212) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+1. ❗️ Closed issue [#2509](https://github.com/apache/incubator-devlake/issues/2509) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+2. 🗣 Commented on [#2509](https://github.com/apache/incubator-devlake/issues/2509) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+3. 🗣 Commented on [#2509](https://github.com/apache/incubator-devlake/issues/2509) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+4. ❗️ Opened issue [#2509](https://github.com/apache/incubator-devlake/issues/2509) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+5. 🗣 Commented on [#14212](https://github.com/etcd-io/etcd/issues/14212) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 <!--END_SECTION:activity-->
 
