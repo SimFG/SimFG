@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14224](https://github.com/etcd-io/etcd/issues/14224) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-2. 🗣 Commented on [#105](https://github.com/bits-and-blooms/bitset/issues/105) in [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset)
-3. 💪 Opened PR [#105](https://github.com/bits-and-blooms/bitset/pull/105) in [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset)
-4. ❗️ Closed issue [#18352](https://github.com/milvus-io/milvus/issues/18352) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. ❗️ Opened issue [#18352](https://github.com/milvus-io/milvus/issues/18352) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 💪 Opened PR [#79](https://github.com/bits-and-blooms/bloom/pull/79) in [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom)
+2. 🗣 Commented on [#14224](https://github.com/etcd-io/etcd/issues/14224) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+3. 🗣 Commented on [#14212](https://github.com/etcd-io/etcd/issues/14212) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+4. 🗣 Commented on [#14224](https://github.com/etcd-io/etcd/issues/14224) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+5. ❗️ Reopened issue [#14224](https://github.com/etcd-io/etcd/issues/14224) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 <!--END_SECTION:activity-->
 
