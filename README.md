@@ -16,7 +16,7 @@ I'm SimFG.
 1. 🗣 Commented on [#18528](https://github.com/milvus-io/milvus/issues/18528) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 2. 🗣 Commented on [#18528](https://github.com/milvus-io/milvus/issues/18528) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 3. 🗣 Commented on [#18528](https://github.com/milvus-io/milvus/issues/18528) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 💪 Opened PR [#18528](https://github.com/milvus-io/milvus/pull/18528) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#18425](https://github.com/milvus-io/milvus/issues/18425) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 🗣 Commented on [#18528](https://github.com/milvus-io/milvus/issues/18528) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 💪 Opened PR [#18528](https://github.com/milvus-io/milvus/pull/18528) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
