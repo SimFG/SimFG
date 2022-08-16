@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1106](https://github.com/milvus-io/pymilvus/pull/1106) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
-2. 💪 Opened PR [#1105](https://github.com/milvus-io/pymilvus/pull/1105) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
-3. ❗️ Closed issue [#1104](https://github.com/milvus-io/pymilvus/issues/1104) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
-4. ❗️ Opened issue [#1104](https://github.com/milvus-io/pymilvus/issues/1104) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
-5. 💪 Opened PR [#1103](https://github.com/milvus-io/pymilvus/pull/1103) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+1. 💪 Opened PR [#4](https://github.com/andeya/ameda/pull/4) in [andeya/ameda](https://github.com/andeya/ameda)
+2. ❗️ Closed issue [#18646](https://github.com/milvus-io/milvus/issues/18646) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 💪 Opened PR [#1106](https://github.com/milvus-io/pymilvus/pull/1106) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+4. 💪 Opened PR [#1105](https://github.com/milvus-io/pymilvus/pull/1105) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+5. ❗️ Closed issue [#1104](https://github.com/milvus-io/pymilvus/issues/1104) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
 <!--END_SECTION:activity-->
 
