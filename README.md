@@ -13,9 +13,9 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18816](https://github.com/milvus-io/milvus/issues/18816) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#18817](https://github.com/milvus-io/milvus/issues/18817) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#18817](https://github.com/milvus-io/milvus/issues/18817) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❌ Closed PR [#14](https://github.com/datawhalechina/key-book/pull/14) in [datawhalechina/key-book](https://github.com/datawhalechina/key-book)
+2. 💪 Opened PR [#14](https://github.com/datawhalechina/key-book/pull/14) in [datawhalechina/key-book](https://github.com/datawhalechina/key-book)
+3. ❗️ Closed issue [#18816](https://github.com/milvus-io/milvus/issues/18816) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 4. 🗣 Commented on [#18817](https://github.com/milvus-io/milvus/issues/18817) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 5. 🗣 Commented on [#18817](https://github.com/milvus-io/milvus/issues/18817) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
