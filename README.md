@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18993](https://github.com/milvus-io/milvus/pull/18993) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#18993](https://github.com/milvus-io/milvus/pull/18993) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#18955](https://github.com/milvus-io/milvus/issues/18955) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#18955](https://github.com/milvus-io/milvus/issues/18955) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#18955](https://github.com/milvus-io/milvus/pull/18955) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Closed issue [#19018](https://github.com/milvus-io/milvus/issues/19018) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 🗣 Commented on [#19020](https://github.com/milvus-io/milvus/issues/19020) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 💪 Opened PR [#19020](https://github.com/milvus-io/milvus/pull/19020) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 🗣 Commented on [#19018](https://github.com/milvus-io/milvus/issues/19018) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. ❗️ Opened issue [#19018](https://github.com/milvus-io/milvus/issues/19018) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
