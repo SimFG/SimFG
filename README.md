@@ -13,8 +13,8 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19126](https://github.com/milvus-io/milvus/pull/19126) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#19126](https://github.com/milvus-io/milvus/issues/19126) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Closed issue [#19099](https://github.com/milvus-io/milvus/issues/19099) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. ❌ Closed PR [#19126](https://github.com/milvus-io/milvus/pull/19126) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 3. 🗣 Commented on [#19126](https://github.com/milvus-io/milvus/issues/19126) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 4. 🗣 Commented on [#19126](https://github.com/milvus-io/milvus/issues/19126) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 5. 🗣 Commented on [#19126](https://github.com/milvus-io/milvus/issues/19126) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
