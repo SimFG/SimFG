@@ -13,7 +13,7 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19178](https://github.com/milvus-io/milvus/issues/19178) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Closed issue [#19177](https://github.com/milvus-io/milvus/issues/19177) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 2. 🗣 Commented on [#19178](https://github.com/milvus-io/milvus/issues/19178) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 3. 🗣 Commented on [#19178](https://github.com/milvus-io/milvus/issues/19178) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 4. 🗣 Commented on [#19178](https://github.com/milvus-io/milvus/issues/19178) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
