@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14506](https://github.com/etcd-io/etcd/pull/14506) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-2. 🗣 Commented on [#19294](https://github.com/milvus-io/milvus/issues/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#19294](https://github.com/milvus-io/milvus/issues/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#32](https://github.com/valyala/gozstd/issues/32) in [valyala/gozstd](https://github.com/valyala/gozstd)
-5. 💪 Opened PR [#19294](https://github.com/milvus-io/milvus/pull/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 💪 Opened PR [#19405](https://github.com/milvus-io/milvus/pull/19405) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. ❗️ Closed issue [#19216](https://github.com/milvus-io/milvus/issues/19216) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 💪 Opened PR [#14506](https://github.com/etcd-io/etcd/pull/14506) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+4. 🗣 Commented on [#19294](https://github.com/milvus-io/milvus/issues/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#19294](https://github.com/milvus-io/milvus/issues/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
