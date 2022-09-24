@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19405](https://github.com/milvus-io/milvus/pull/19405) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. ❗️ Closed issue [#19216](https://github.com/milvus-io/milvus/issues/19216) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 💪 Opened PR [#14506](https://github.com/etcd-io/etcd/pull/14506) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-4. 🗣 Commented on [#19294](https://github.com/milvus-io/milvus/issues/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Opened issue [#55850](https://github.com/golang/go/issues/55850) in [golang/go](https://github.com/golang/go)
+2. 💪 Opened PR [#19405](https://github.com/milvus-io/milvus/pull/19405) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. ❗️ Closed issue [#19216](https://github.com/milvus-io/milvus/issues/19216) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#14506](https://github.com/etcd-io/etcd/pull/14506) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 5. 🗣 Commented on [#19294](https://github.com/milvus-io/milvus/issues/19294) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
