@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19782](https://github.com/milvus-io/milvus/issues/19782) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#48](https://github.com/milvus-io/milvus-proto/pull/48) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
-3. 💪 Opened PR [#19789](https://github.com/milvus-io/milvus/pull/19789) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. ❗️ Opened issue [#19788](https://github.com/milvus-io/milvus/issues/19788) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#19782](https://github.com/milvus-io/milvus/pull/19782) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❌ Closed PR [#19821](https://github.com/milvus-io/milvus/pull/19821) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#19843](https://github.com/milvus-io/milvus/pull/19843) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 💪 Opened PR [#19833](https://github.com/milvus-io/milvus/pull/19833) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#19821](https://github.com/milvus-io/milvus/pull/19821) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 💪 Opened PR [#19812](https://github.com/milvus-io/milvus/pull/19812) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
