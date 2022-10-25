@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
-2. 🗣 Commented on [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
+1. 💪 Opened PR [#14623](https://github.com/etcd-io/etcd/pull/14623) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+2. ❗️ Closed issue [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
 3. 🗣 Commented on [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
-4. ❗️ Opened issue [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
-5. 🗣 Commented on [#19981](https://github.com/milvus-io/milvus/issues/19981) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 🗣 Commented on [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
+5. 🗣 Commented on [#254](https://github.com/samber/lo/issues/254) in [samber/lo](https://github.com/samber/lo)
 <!--END_SECTION:activity-->
 
