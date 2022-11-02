@@ -13,10 +13,10 @@ I'm SimFG.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20214](https://github.com/milvus-io/milvus/issues/20214) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#20214](https://github.com/milvus-io/milvus/issues/20214) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. ❗️ Opened issue [#20214](https://github.com/milvus-io/milvus/issues/20214) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#20211](https://github.com/milvus-io/milvus/issues/20211) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#20168](https://github.com/milvus-io/milvus/issues/20168) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Closed issue [#20196](https://github.com/milvus-io/milvus/issues/20196) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. ❗️ Closed issue [#20214](https://github.com/milvus-io/milvus/issues/20214) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🗣 Commented on [#20214](https://github.com/milvus-io/milvus/issues/20214) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. ❗️ Opened issue [#20214](https://github.com/milvus-io/milvus/issues/20214) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#20211](https://github.com/milvus-io/milvus/issues/20211) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
