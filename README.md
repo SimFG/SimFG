@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm SimFG.
+[I'm SimFG.](https://simfg.github.io/)
 
 ![Metrics](/metrics.plugin.followup.user.svg)
 
