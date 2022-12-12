@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21115](https://github.com/milvus-io/milvus/issues/21115) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#21115](https://github.com/milvus-io/milvus/pull/21115) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#20811](https://github.com/milvus-io/milvus/issues/20811) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 💪 Opened PR [#21090](https://github.com/milvus-io/milvus/pull/21090) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#20867](https://github.com/milvus-io/milvus/issues/20867) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❌ Closed PR [#81](https://github.com/bits-and-blooms/bloom/pull/81) in [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom)
+2. ❌ Closed PR [#14623](https://github.com/etcd-io/etcd/pull/14623) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+3. 🗣 Commented on [#21022](https://github.com/milvus-io/milvus/issues/21022) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#21145](https://github.com/milvus-io/milvus/pull/21145) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 💪 Opened PR [#21132](https://github.com/milvus-io/milvus/pull/21132) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
