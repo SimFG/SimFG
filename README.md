@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2212](https://github.com/withfig/fig/issues/2212) in [withfig/fig](https://github.com/withfig/fig)
-2. 💪 Opened PR [#21646](https://github.com/milvus-io/milvus/pull/21646) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 💪 Opened PR [#21645](https://github.com/milvus-io/milvus/pull/21645) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. ❌ Closed PR [#20985](https://github.com/milvus-io/milvus/pull/20985) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#21627](https://github.com/milvus-io/milvus/issues/21627) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Closed issue [#1257](https://github.com/milvus-io/pymilvus/issues/1257) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+2. ❗️ Opened issue [#2212](https://github.com/withfig/fig/issues/2212) in [withfig/fig](https://github.com/withfig/fig)
+3. 💪 Opened PR [#21646](https://github.com/milvus-io/milvus/pull/21646) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#21645](https://github.com/milvus-io/milvus/pull/21645) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. ❌ Closed PR [#20985](https://github.com/milvus-io/milvus/pull/20985) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
