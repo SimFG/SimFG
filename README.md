@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/milvus-io/milvus-sdk-go/pull/400) in [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
-2. 🎉 Merged PR [#1](https://github.com/SimFG/promptui/pull/1) in [SimFG/promptui](https://github.com/SimFG/promptui)
-3. 🗣 Commented on [#1](https://github.com/SimFG/promptui/issues/1) in [SimFG/promptui](https://github.com/SimFG/promptui)
-4. 🎉 Merged PR [#1](https://github.com/SimFG/etcd-analysis/pull/1) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
-5. 🗣 Commented on [#1](https://github.com/SimFG/etcd-analysis/issues/1) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
+1. 💪 Opened PR [#109](https://github.com/milvus-io/milvus-proto/pull/109) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+2. 💪 Opened PR [#108](https://github.com/milvus-io/milvus-proto/pull/108) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+3. 💪 Opened PR [#106](https://github.com/milvus-io/milvus-proto/pull/106) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+4. 💪 Opened PR [#105](https://github.com/milvus-io/milvus-proto/pull/105) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+5. 💪 Opened PR [#400](https://github.com/milvus-io/milvus-sdk-go/pull/400) in [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
 <!--END_SECTION:activity-->
 
