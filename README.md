@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22274](https://github.com/milvus-io/milvus/pull/22274) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#22273](https://github.com/milvus-io/milvus/pull/22273) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. ❗️ Opened issue [#22272](https://github.com/milvus-io/milvus/issues/22272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 💪 Opened PR [#109](https://github.com/milvus-io/milvus-proto/pull/109) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
-5. 💪 Opened PR [#108](https://github.com/milvus-io/milvus-proto/pull/108) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+1. 💪 Opened PR [#219](https://github.com/fullstorydev/grpcui/pull/219) in [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui)
+2. 💪 Opened PR [#22274](https://github.com/milvus-io/milvus/pull/22274) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 💪 Opened PR [#22273](https://github.com/milvus-io/milvus/pull/22273) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. ❗️ Opened issue [#22272](https://github.com/milvus-io/milvus/issues/22272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 💪 Opened PR [#109](https://github.com/milvus-io/milvus-proto/pull/109) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
 <!--END_SECTION:activity-->
 
