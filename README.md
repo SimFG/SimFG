@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22274](https://github.com/milvus-io/milvus/issues/22274) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. ❗️ Opened issue [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-3. 💪 Opened PR [#22361](https://github.com/milvus-io/milvus/pull/22361) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#22350](https://github.com/milvus-io/milvus/issues/22350) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#22350](https://github.com/milvus-io/milvus/issues/22350) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Closed issue [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+2. 🗣 Commented on [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+3. 🗣 Commented on [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+4. 🗣 Commented on [#22274](https://github.com/milvus-io/milvus/issues/22274) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. ❗️ Opened issue [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 <!--END_SECTION:activity-->
 
