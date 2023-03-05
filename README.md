@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#398](https://github.com/milvus-io/milvus-sdk-go/pull/398) in [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
-2. 🎉 Merged PR [#1](https://github.com/SimFG/milvus/pull/1) in [SimFG/milvus](https://github.com/SimFG/milvus)
-3. ❗️ Closed issue [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-4. 🗣 Commented on [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+1. 💪 Opened PR [#22573](https://github.com/milvus-io/milvus/pull/22573) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. ❌ Closed PR [#398](https://github.com/milvus-io/milvus-sdk-go/pull/398) in [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
+3. 🎉 Merged PR [#1](https://github.com/SimFG/milvus/pull/1) in [SimFG/milvus](https://github.com/SimFG/milvus)
+4. ❗️ Closed issue [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 5. 🗣 Commented on [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 <!--END_SECTION:activity-->
 
