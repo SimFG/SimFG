@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22624](https://github.com/milvus-io/milvus/issues/22624) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#22573](https://github.com/milvus-io/milvus/pull/22573) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. ❌ Closed PR [#398](https://github.com/milvus-io/milvus-sdk-go/pull/398) in [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
-4. 🎉 Merged PR [#1](https://github.com/SimFG/milvus/pull/1) in [SimFG/milvus](https://github.com/SimFG/milvus)
-5. ❗️ Closed issue [#233](https://github.com/charmbracelet/vhs/issues/233) in [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+1. 💪 Opened PR [#22696](https://github.com/milvus-io/milvus/pull/22696) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 🗣 Commented on [#22694](https://github.com/milvus-io/milvus/issues/22694) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🗣 Commented on [#22624](https://github.com/milvus-io/milvus/issues/22624) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#22573](https://github.com/milvus-io/milvus/pull/22573) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. ❌ Closed PR [#398](https://github.com/milvus-io/milvus-sdk-go/pull/398) in [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
 <!--END_SECTION:activity-->
 
