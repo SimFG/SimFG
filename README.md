@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22870](https://github.com/milvus-io/milvus/pull/22870) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#22772](https://github.com/milvus-io/milvus/issues/22772) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#22772](https://github.com/milvus-io/milvus/issues/22772) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#22694](https://github.com/milvus-io/milvus/issues/22694) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#22772](https://github.com/milvus-io/milvus/pull/22772) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❗️ Opened issue [#3](https://github.com/SimFG/etcd-analysis/issues/3) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
+2. ❗️ Opened issue [#2](https://github.com/SimFG/etcd-analysis/issues/2) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
+3. ❌ Closed PR [#219](https://github.com/fullstorydev/grpcui/pull/219) in [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui)
+4. ❌ Closed PR [#22273](https://github.com/milvus-io/milvus/pull/22273) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#22273](https://github.com/milvus-io/milvus/issues/22273) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
