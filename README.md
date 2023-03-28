@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23018](https://github.com/milvus-io/milvus/pull/23018) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#22946](https://github.com/milvus-io/milvus/pull/22946) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 💪 Opened PR [#22919](https://github.com/milvus-io/milvus/pull/22919) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. ❗️ Opened issue [#3](https://github.com/SimFG/etcd-analysis/issues/3) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
-5. ❗️ Opened issue [#2](https://github.com/SimFG/etcd-analysis/issues/2) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
+1. 💪 Opened PR [#23079](https://github.com/milvus-io/milvus/pull/23079) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#23018](https://github.com/milvus-io/milvus/pull/23018) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 💪 Opened PR [#22946](https://github.com/milvus-io/milvus/pull/22946) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#22919](https://github.com/milvus-io/milvus/pull/22919) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. ❗️ Opened issue [#3](https://github.com/SimFG/etcd-analysis/issues/3) in [SimFG/etcd-analysis](https://github.com/SimFG/etcd-analysis)
 <!--END_SECTION:activity-->
 
