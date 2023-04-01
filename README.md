@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
-2. 🗣 Commented on [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
-3. 🗣 Commented on [#3174](https://github.com/pypi/warehouse/issues/3174) in [pypi/warehouse](https://github.com/pypi/warehouse)
-4. ❗️ Opened issue [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
-5. 🗣 Commented on [#3174](https://github.com/pypi/warehouse/issues/3174) in [pypi/warehouse](https://github.com/pypi/warehouse)
+1. ❗️ Opened issue [#3028](https://github.com/ruanyf/weekly/issues/3028) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+2. 💪 Opened PR [#123](https://github.com/humanloop/awesome-chatgpt/pull/123) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+3. 🎉 Merged PR [#2](https://github.com/zilliztech/gptcache/pull/2) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
+4. ❗️ Closed issue [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
+5. 🗣 Commented on [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
 <!--END_SECTION:activity-->
 
