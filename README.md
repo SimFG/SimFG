@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3028](https://github.com/ruanyf/weekly/issues/3028) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 💪 Opened PR [#123](https://github.com/humanloop/awesome-chatgpt/pull/123) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-3. 🎉 Merged PR [#2](https://github.com/zilliztech/gptcache/pull/2) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
-4. ❗️ Closed issue [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
-5. 🗣 Commented on [#13350](https://github.com/pypi/warehouse/issues/13350) in [pypi/warehouse](https://github.com/pypi/warehouse)
+1. 🗣 Commented on [#16](https://github.com/GanymedeNil/document.ai/issues/16) in [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)
+2. 🗣 Commented on [#12](https://github.com/yzfly/awesome-chatgpt-zh/issues/12) in [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
+3. 💪 Opened PR [#12](https://github.com/yzfly/awesome-chatgpt-zh/pull/12) in [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
+4. 💪 Opened PR [#50](https://github.com/reorx/awesome-chatgpt-api/pull/50) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
+5. ❗️ Opened issue [#276](https://github.com/GitHubDaily/GitHubDaily/issues/276) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 <!--END_SECTION:activity-->
 
