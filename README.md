@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/GanymedeNil/document.ai/issues/16) in [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)
-2. 🗣 Commented on [#12](https://github.com/yzfly/awesome-chatgpt-zh/issues/12) in [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-3. 💪 Opened PR [#12](https://github.com/yzfly/awesome-chatgpt-zh/pull/12) in [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-4. 💪 Opened PR [#50](https://github.com/reorx/awesome-chatgpt-api/pull/50) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
-5. ❗️ Opened issue [#276](https://github.com/GitHubDaily/GitHubDaily/issues/276) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+1. 🎉 Merged PR [#12](https://github.com/zilliztech/gptcache/pull/12) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
+2. 🎉 Merged PR [#10](https://github.com/zilliztech/gptcache/pull/10) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
+3. 🎉 Merged PR [#11](https://github.com/zilliztech/gptcache/pull/11) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
+4. 💪 Opened PR [#11](https://github.com/zilliztech/gptcache/pull/11) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
+5. 🎉 Merged PR [#9](https://github.com/zilliztech/gptcache/pull/9) in [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
 <!--END_SECTION:activity-->
 
