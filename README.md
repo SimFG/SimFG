@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/zilliztech/GPTCache/issues/44) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🎉 Merged PR [#45](https://github.com/zilliztech/GPTCache/pull/45) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🎉 Merged PR [#43](https://github.com/zilliztech/GPTCache/pull/43) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 💪 Opened PR [#43](https://github.com/zilliztech/GPTCache/pull/43) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🎉 Merged PR [#42](https://github.com/zilliztech/GPTCache/pull/42) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🎉 Merged PR [#73](https://github.com/zilliztech/GPTCache/pull/73) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#73](https://github.com/zilliztech/GPTCache/pull/73) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#72](https://github.com/zilliztech/GPTCache/issues/72) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#68](https://github.com/zilliztech/GPTCache/issues/68) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🎉 Merged PR [#71](https://github.com/zilliztech/GPTCache/pull/71) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
