@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#168](https://github.com/zilliztech/GPTCache/pull/168) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 💪 Opened PR [#168](https://github.com/zilliztech/GPTCache/pull/168) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 💪 Opened PR [#13](https://github.com/yzfly/awesome-chatgpt-zh/pull/13) in [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-4. 🗣 Commented on [#12](https://github.com/yzfly/awesome-chatgpt-zh/issues/12) in [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-5. 🎉 Merged PR [#166](https://github.com/zilliztech/GPTCache/pull/166) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. ❗️ Closed issue [#2458](https://github.com/withfig/fig/issues/2458) in [withfig/fig](https://github.com/withfig/fig)
+2. 🗣 Commented on [#2456](https://github.com/withfig/fig/issues/2456) in [withfig/fig](https://github.com/withfig/fig)
+3. 🗣 Commented on [#2456](https://github.com/withfig/fig/issues/2456) in [withfig/fig](https://github.com/withfig/fig)
+4. ❗️ Opened issue [#2458](https://github.com/withfig/fig/issues/2458) in [withfig/fig](https://github.com/withfig/fig)
+5. 🎉 Merged PR [#174](https://github.com/zilliztech/GPTCache/pull/174) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
