@@ -13,10 +13,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2458](https://github.com/withfig/fig/issues/2458) in [withfig/fig](https://github.com/withfig/fig)
-2. 🗣 Commented on [#2456](https://github.com/withfig/fig/issues/2456) in [withfig/fig](https://github.com/withfig/fig)
-3. 🗣 Commented on [#2456](https://github.com/withfig/fig/issues/2456) in [withfig/fig](https://github.com/withfig/fig)
-4. ❗️ Opened issue [#2458](https://github.com/withfig/fig/issues/2458) in [withfig/fig](https://github.com/withfig/fig)
-5. 🎉 Merged PR [#174](https://github.com/zilliztech/GPTCache/pull/174) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🗣 Commented on [#150](https://github.com/zilliztech/GPTCache/issues/150) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#186](https://github.com/zilliztech/GPTCache/pull/186) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🎉 Merged PR [#185](https://github.com/zilliztech/GPTCache/pull/185) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#3028](https://github.com/ruanyf/weekly/issues/3028) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+5. 🗣 Commented on [#183](https://github.com/zilliztech/GPTCache/issues/183) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
