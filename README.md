@@ -1,6 +1,6 @@
 ### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there
 
-[I'm SimFG.](https://simfg.github.io/), first author of [gptcache project](https://github.com/zilliztech/gptcache)
+I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 
 ![Metrics 👋](/metrics.plugin.followup.user.svg)
 
