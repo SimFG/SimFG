@@ -9,6 +9,8 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 📫 How to reach me:
 
 [![Connect on Mail](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:1142838399@qq.com)
+[![Twitter](https://img.shields.io/twitter/follow/FogSim?style=social)](https://twitter.com/FogSim)
+[![Discord](https://img.shields.io/discord/1092648432495251507?label=Discord&logo=discord)](https://discord.gg/Q8C6WEjSWV)
 
 ### :zap: Recent Activity
 
