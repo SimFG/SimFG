@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2128](https://github.com/Significant-Gravitas/Auto-GPT/issues/2128) in [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-2. 💪 Opened PR [#233](https://github.com/zilliztech/GPTCache/pull/233) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#232](https://github.com/zilliztech/GPTCache/issues/232) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#231](https://github.com/zilliztech/GPTCache/issues/231) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 💪 Opened PR [#4](https://github.com/ikaijua/Awesome-AITools/pull/4) in [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)
+1. 🗣 Commented on [#2](https://github.com/EwingYangs/awesome-open-gpt/issues/2) in [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)
+2. 🗣 Commented on [#241](https://github.com/zilliztech/GPTCache/issues/241) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🎉 Merged PR [#242](https://github.com/zilliztech/GPTCache/pull/242) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. ❗️ Opened issue [#175](https://github.com/pengzhile/pandora/issues/175) in [pengzhile/pandora](https://github.com/pengzhile/pandora)
+5. 🗣 Commented on [#22](https://github.com/momegas/megabots/issues/22) in [momegas/megabots](https://github.com/momegas/megabots)
 <!--END_SECTION:activity-->
 
