@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/EwingYangs/awesome-open-gpt/issues/2) in [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)
-2. 🗣 Commented on [#241](https://github.com/zilliztech/GPTCache/issues/241) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🎉 Merged PR [#242](https://github.com/zilliztech/GPTCache/pull/242) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. ❗️ Opened issue [#175](https://github.com/pengzhile/pandora/issues/175) in [pengzhile/pandora](https://github.com/pengzhile/pandora)
-5. 🗣 Commented on [#22](https://github.com/momegas/megabots/issues/22) in [momegas/megabots](https://github.com/momegas/megabots)
+1. 🗣 Commented on [#259](https://github.com/zilliztech/GPTCache/issues/259) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#258](https://github.com/zilliztech/GPTCache/pull/258) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#257](https://github.com/zilliztech/GPTCache/issues/257) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 💪 Opened PR [#1403](https://github.com/oobabooga/text-generation-webui/pull/1403) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+5. 🎉 Merged PR [#256](https://github.com/zilliztech/GPTCache/pull/256) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
