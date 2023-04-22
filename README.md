@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/zilliztech/GPTCache/issues/270) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#269](https://github.com/zilliztech/GPTCache/issues/269) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🎉 Merged PR [#268](https://github.com/zilliztech/GPTCache/pull/268) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🎉 Merged PR [#267](https://github.com/zilliztech/GPTCache/pull/267) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. ❗️ Closed issue [#245](https://github.com/zilliztech/GPTCache/issues/245) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🗣 Commented on [#271](https://github.com/zilliztech/GPTCache/issues/271) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#27](https://github.com/suno-ai/bark/issues/27) in [suno-ai/bark](https://github.com/suno-ai/bark)
+3. ❗️ Opened issue [#615](https://github.com/Mause/duckdb_engine/issues/615) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
+4. 🗣 Commented on [#1403](https://github.com/oobabooga/text-generation-webui/issues/1403) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+5. 🗣 Commented on [#270](https://github.com/zilliztech/GPTCache/issues/270) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
