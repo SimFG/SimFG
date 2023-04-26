@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#288](https://github.com/zilliztech/GPTCache/pull/288) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#23664](https://github.com/milvus-io/milvus/issues/23664) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#23664](https://github.com/milvus-io/milvus/issues/23664) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🎉 Merged PR [#287](https://github.com/zilliztech/GPTCache/pull/287) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 💪 Opened PR [#287](https://github.com/zilliztech/GPTCache/pull/287) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 💪 Opened PR [#297](https://github.com/zilliztech/GPTCache/pull/297) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#291](https://github.com/zilliztech/GPTCache/issues/291) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#1403](https://github.com/oobabooga/text-generation-webui/issues/1403) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+4. 💪 Opened PR [#23733](https://github.com/milvus-io/milvus/pull/23733) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 💪 Opened PR [#23729](https://github.com/milvus-io/milvus/pull/23729) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
