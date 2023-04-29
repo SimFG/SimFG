@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/zilliztech/GPTCache/issues/312) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#311](https://github.com/zilliztech/GPTCache/issues/311) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#308](https://github.com/zilliztech/GPTCache/issues/308) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#3693](https://github.com/hwchase17/langchain/issues/3693) in [hwchase17/langchain](https://github.com/hwchase17/langchain)
-5. 🗣 Commented on [#1337](https://github.com/oobabooga/text-generation-webui/issues/1337) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+1. 🎉 Merged PR [#318](https://github.com/zilliztech/GPTCache/pull/318) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#318](https://github.com/zilliztech/GPTCache/pull/318) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#312](https://github.com/zilliztech/GPTCache/issues/312) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#311](https://github.com/zilliztech/GPTCache/issues/311) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#308](https://github.com/zilliztech/GPTCache/issues/308) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
