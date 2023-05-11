@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) founder
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23972](https://github.com/milvus-io/milvus/pull/23972) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#23932](https://github.com/milvus-io/milvus/issues/23932) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#23945](https://github.com/milvus-io/milvus/issues/23945) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#23943](https://github.com/milvus-io/milvus/issues/23943) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🎉 Merged PR [#330](https://github.com/zilliztech/GPTCache/pull/330) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🎉 Merged PR [#336](https://github.com/zilliztech/GPTCache/pull/336) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#336](https://github.com/zilliztech/GPTCache/pull/336) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#4522](https://github.com/hwchase17/langchain/issues/4522) in [hwchase17/langchain](https://github.com/hwchase17/langchain)
+4. 🗣 Commented on [#335](https://github.com/zilliztech/GPTCache/issues/335) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 💪 Opened PR [#38](https://github.com/imartinez/privateGPT/pull/38) in [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 <!--END_SECTION:activity-->
 
