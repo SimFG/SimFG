@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#347](https://github.com/zilliztech/GPTCache/pull/347) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 💪 Opened PR [#347](https://github.com/zilliztech/GPTCache/pull/347) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 💪 Opened PR [#24109](https://github.com/milvus-io/milvus/pull/24109) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🎉 Merged PR [#346](https://github.com/zilliztech/GPTCache/pull/346) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#346](https://github.com/zilliztech/GPTCache/issues/346) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🗣 Commented on [#350](https://github.com/zilliztech/GPTCache/issues/350) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#350](https://github.com/zilliztech/GPTCache/issues/350) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. ❗️ Closed issue [#731](https://github.com/executablebooks/sphinx-book-theme/issues/731) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. ❗️ Opened issue [#731](https://github.com/executablebooks/sphinx-book-theme/issues/731) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🎉 Merged PR [#349](https://github.com/zilliztech/GPTCache/pull/349) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
