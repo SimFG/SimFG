@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4981](https://github.com/hwchase17/langchain/pull/4981) in [hwchase17/langchain](https://github.com/hwchase17/langchain)
-2. 💪 Opened PR [#4981](https://github.com/hwchase17/langchain/pull/4981) in [hwchase17/langchain](https://github.com/hwchase17/langchain)
-3. 🗣 Commented on [#4757](https://github.com/hwchase17/langchain/issues/4757) in [hwchase17/langchain](https://github.com/hwchase17/langchain)
-4. ❗️ Opened issue [#59](https://github.com/StanGirard/quivr/issues/59) in [StanGirard/quivr](https://github.com/StanGirard/quivr)
-5. 🎉 Merged PR [#369](https://github.com/zilliztech/GPTCache/pull/369) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🎉 Merged PR [#372](https://github.com/zilliztech/GPTCache/pull/372) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#372](https://github.com/zilliztech/GPTCache/pull/372) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🎉 Merged PR [#371](https://github.com/zilliztech/GPTCache/pull/371) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 💪 Opened PR [#371](https://github.com/zilliztech/GPTCache/pull/371) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#370](https://github.com/zilliztech/GPTCache/issues/370) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
