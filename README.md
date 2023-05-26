@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#386](https://github.com/zilliztech/GPTCache/issues/386) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#386](https://github.com/zilliztech/GPTCache/issues/386) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. ❗️ Closed issue [#373](https://github.com/zilliztech/GPTCache/issues/373) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. ❗️ Closed issue [#388](https://github.com/zilliztech/GPTCache/issues/388) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#388](https://github.com/zilliztech/GPTCache/issues/388) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🎉 Merged PR [#392](https://github.com/zilliztech/GPTCache/pull/392) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 💪 Opened PR [#392](https://github.com/zilliztech/GPTCache/pull/392) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#335](https://github.com/zilliztech/GPTCache/issues/335) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#29](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide/issues/29) in [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)
+5. 🗣 Commented on [#35](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide/issues/35) in [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)
 <!--END_SECTION:activity-->
 
