@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#396](https://github.com/zilliztech/GPTCache/pull/396) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 💪 Opened PR [#396](https://github.com/zilliztech/GPTCache/pull/396) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#378](https://github.com/zilliztech/GPTCache/issues/378) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🎉 Merged PR [#395](https://github.com/zilliztech/GPTCache/pull/395) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#67](https://github.com/ajndkr/lanarky/issues/67) in [ajndkr/lanarky](https://github.com/ajndkr/lanarky)
+1. 🗣 Commented on [#123](https://github.com/microsoft/guidance/issues/123) in [microsoft/guidance](https://github.com/microsoft/guidance)
+2. 🗣 Commented on [#393](https://github.com/zilliztech/GPTCache/issues/393) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🎉 Merged PR [#397](https://github.com/zilliztech/GPTCache/pull/397) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 💪 Opened PR [#397](https://github.com/zilliztech/GPTCache/pull/397) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. ❗️ Closed issue [#378](https://github.com/zilliztech/GPTCache/issues/378) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
