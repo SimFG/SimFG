@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#399](https://github.com/zilliztech/GPTCache/pull/399) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. ❗️ Opened issue [#1186](https://github.com/pynamodb/PynamoDB/issues/1186) in [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB)
-3. 🗣 Commented on [#399](https://github.com/zilliztech/GPTCache/issues/399) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#399](https://github.com/zilliztech/GPTCache/issues/399) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 💪 Opened PR [#24546](https://github.com/milvus-io/milvus/pull/24546) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 💪 Opened PR [#401](https://github.com/zilliztech/GPTCache/pull/401) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#400](https://github.com/zilliztech/GPTCache/issues/400) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#400](https://github.com/zilliztech/GPTCache/issues/400) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#123](https://github.com/microsoft/guidance/issues/123) in [microsoft/guidance](https://github.com/microsoft/guidance)
+5. 🎉 Merged PR [#399](https://github.com/zilliztech/GPTCache/pull/399) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
