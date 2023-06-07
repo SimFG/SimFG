@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#412](https://github.com/zilliztech/GPTCache/pull/412) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 💪 Opened PR [#412](https://github.com/zilliztech/GPTCache/pull/412) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🎉 Merged PR [#410](https://github.com/zilliztech/GPTCache/pull/410) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#411](https://github.com/zilliztech/GPTCache/issues/411) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#411](https://github.com/zilliztech/GPTCache/issues/411) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. ❗️ Closed issue [#411](https://github.com/zilliztech/GPTCache/issues/411) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#158](https://github.com/linweiyuan/go-chatgpt-api/issues/158) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
+3. ❗️ Opened issue [#183](https://github.com/adams549659584/go-proxy-bingai/issues/183) in [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+4. 🗣 Commented on [#177](https://github.com/adams549659584/go-proxy-bingai/issues/177) in [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+5. 🎉 Merged PR [#412](https://github.com/zilliztech/GPTCache/pull/412) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
