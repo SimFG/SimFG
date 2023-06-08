@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#411](https://github.com/zilliztech/GPTCache/issues/411) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#158](https://github.com/linweiyuan/go-chatgpt-api/issues/158) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
-3. ❗️ Opened issue [#183](https://github.com/adams549659584/go-proxy-bingai/issues/183) in [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
-4. 🗣 Commented on [#177](https://github.com/adams549659584/go-proxy-bingai/issues/177) in [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
-5. 🎉 Merged PR [#412](https://github.com/zilliztech/GPTCache/pull/412) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🗣 Commented on [#24751](https://github.com/milvus-io/milvus/issues/24751) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 🗣 Commented on [#416](https://github.com/zilliztech/GPTCache/issues/416) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#173](https://github.com/milvus-io/milvus-proto/issues/173) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+4. 🗣 Commented on [#183](https://github.com/adams549659584/go-proxy-bingai/issues/183) in [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+5. ❗️ Closed issue [#411](https://github.com/zilliztech/GPTCache/issues/411) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
