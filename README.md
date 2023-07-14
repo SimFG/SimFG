@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#481](https://github.com/zilliztech/GPTCache/issues/481) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. ❗️ Closed issue [#479](https://github.com/zilliztech/GPTCache/issues/479) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#479](https://github.com/zilliztech/GPTCache/issues/479) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. ❗️ Closed issue [#478](https://github.com/zilliztech/GPTCache/issues/478) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#481](https://github.com/zilliztech/GPTCache/issues/481) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. ❗️ Closed issue [#481](https://github.com/zilliztech/GPTCache/issues/481) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. ❗️ Closed issue [#486](https://github.com/zilliztech/GPTCache/issues/486) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#486](https://github.com/zilliztech/GPTCache/issues/486) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#487](https://github.com/zilliztech/GPTCache/issues/487) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#486](https://github.com/zilliztech/GPTCache/issues/486) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
