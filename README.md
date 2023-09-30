@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#546](https://github.com/zilliztech/GPTCache/pull/546) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#27432](https://github.com/milvus-io/milvus/issues/27432) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 💪 Opened PR [#546](https://github.com/zilliztech/GPTCache/pull/546) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#545](https://github.com/zilliztech/GPTCache/issues/545) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. ❗️ Closed issue [#540](https://github.com/zilliztech/GPTCache/issues/540) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 🗣 Commented on [#547](https://github.com/zilliztech/GPTCache/issues/547) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🎉 Merged PR [#546](https://github.com/zilliztech/GPTCache/pull/546) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#27432](https://github.com/milvus-io/milvus/issues/27432) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 💪 Opened PR [#546](https://github.com/zilliztech/GPTCache/pull/546) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#545](https://github.com/zilliztech/GPTCache/issues/545) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
