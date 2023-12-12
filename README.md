@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29113](https://github.com/milvus-io/milvus/issues/29113) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. ❗️ Opened issue [#3113](https://github.com/wailsapp/wails/issues/3113) in [wailsapp/wails](https://github.com/wailsapp/wails)
-3. 🗣 Commented on [#28977](https://github.com/milvus-io/milvus/issues/28977) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#584](https://github.com/zilliztech/GPTCache/issues/584) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#584](https://github.com/zilliztech/GPTCache/issues/584) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. 💪 Opened PR [#29147](https://github.com/milvus-io/milvus/pull/29147) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#4](https://github.com/wayblink/milvus/pull/4) in [wayblink/milvus](https://github.com/wayblink/milvus)
+3. 💪 Opened PR [#3](https://github.com/wayblink/milvus/pull/3) in [wayblink/milvus](https://github.com/wayblink/milvus)
+4. 💪 Opened PR [#2](https://github.com/wayblink/milvus/pull/2) in [wayblink/milvus](https://github.com/wayblink/milvus)
+5. 💪 Opened PR [#1](https://github.com/wayblink/milvus/pull/1) in [wayblink/milvus](https://github.com/wayblink/milvus)
 <!--END_SECTION:activity-->
 
