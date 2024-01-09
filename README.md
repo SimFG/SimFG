@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/milvus-io/milvus-proto/issues/236) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
-2. 🗣 Commented on [#576](https://github.com/zilliztech/GPTCache/issues/576) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#570](https://github.com/zilliztech/GPTCache/issues/570) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#593](https://github.com/zilliztech/GPTCache/issues/593) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-5. 🗣 Commented on [#29762](https://github.com/milvus-io/milvus/issues/29762) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 🗣 Commented on [#238](https://github.com/milvus-io/milvus-proto/issues/238) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+2. 🗣 Commented on [#236](https://github.com/milvus-io/milvus-proto/issues/236) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+3. 🗣 Commented on [#576](https://github.com/zilliztech/GPTCache/issues/576) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#570](https://github.com/zilliztech/GPTCache/issues/570) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#593](https://github.com/zilliztech/GPTCache/issues/593) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
