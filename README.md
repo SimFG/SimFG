@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12207](https://github.com/postmanlabs/postman-app-support/issues/12207) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-2. 🗣 Commented on [#596](https://github.com/zilliztech/GPTCache/issues/596) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#29798](https://github.com/milvus-io/milvus/issues/29798) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#238](https://github.com/milvus-io/milvus-proto/issues/238) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
-5. 🗣 Commented on [#236](https://github.com/milvus-io/milvus-proto/issues/236) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+1. 🗣 Commented on [#599](https://github.com/zilliztech/GPTCache/issues/599) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#29885](https://github.com/milvus-io/milvus/issues/29885) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🎉 Merged PR [#4](https://github.com/SimFG/milvus/pull/4) in [SimFG/milvus](https://github.com/SimFG/milvus)
+4. 🗣 Commented on [#12207](https://github.com/postmanlabs/postman-app-support/issues/12207) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+5. 🗣 Commented on [#596](https://github.com/zilliztech/GPTCache/issues/596) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
