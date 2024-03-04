@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#585](https://github.com/zilliztech/GPTCache/issues/585) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-2. 🗣 Commented on [#585](https://github.com/zilliztech/GPTCache/issues/585) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#585](https://github.com/zilliztech/GPTCache/issues/585) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#30976](https://github.com/milvus-io/milvus/issues/30976) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#30976](https://github.com/milvus-io/milvus/pull/30976) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. ❌ Closed PR [#47](https://github.com/sanchit-gandhi/whisper-jax/pull/47) in [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
+2. ❌ Closed PR [#123](https://github.com/humanloop/awesome-chatgpt/pull/123) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+3. ❌ Closed PR [#9](https://github.com/jtsang4/claude-to-chatgpt/pull/9) in [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)
+4. 🗣 Commented on [#585](https://github.com/zilliztech/GPTCache/issues/585) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#585](https://github.com/zilliztech/GPTCache/issues/585) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 <!--END_SECTION:activity-->
 
