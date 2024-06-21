@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/zilliztech/milvus-cdc/pull/75) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-2. 🎉 Merged PR [#74](https://github.com/zilliztech/milvus-cdc/pull/74) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-3. 💪 Opened PR [#74](https://github.com/zilliztech/milvus-cdc/pull/74) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-4. 💪 Opened PR [#73](https://github.com/zilliztech/milvus-cdc/pull/73) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-5. 🎉 Merged PR [#70](https://github.com/zilliztech/milvus-cdc/pull/70) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+1. 🗣 Commented on [#1](https://github.com/Open-Quants/Open-Quants/issues/1) in [Open-Quants/Open-Quants](https://github.com/Open-Quants/Open-Quants)
+2. 🗣 Commented on [#601](https://github.com/zilliztech/GPTCache/issues/601) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#66](https://github.com/zilliztech/milvus-cdc/issues/66) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+4. 🎉 Merged PR [#75](https://github.com/zilliztech/milvus-cdc/pull/75) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+5. 💪 Opened PR [#75](https://github.com/zilliztech/milvus-cdc/pull/75) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
