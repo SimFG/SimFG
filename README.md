@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35392](https://github.com/milvus-io/milvus/pull/35392) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. ❗️ Opened issue [#35391](https://github.com/milvus-io/milvus/issues/35391) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. ❗️ Closed issue [#34614](https://github.com/milvus-io/milvus/issues/34614) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. ❗️ Closed issue [#34756](https://github.com/milvus-io/milvus/issues/34756) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. ❗️ Closed issue [#34804](https://github.com/milvus-io/milvus/issues/34804) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 🎉 Merged PR [#111](https://github.com/zilliztech/milvus-cdc/pull/111) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+2. 🎉 Merged PR [#110](https://github.com/zilliztech/milvus-cdc/pull/110) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+3. ❗️ Opened issue [#213](https://github.com/OlegWock/anori/issues/213) in [OlegWock/anori](https://github.com/OlegWock/anori)
+4. 🗣 Commented on [#35391](https://github.com/milvus-io/milvus/issues/35391) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 💪 Opened PR [#110](https://github.com/zilliztech/milvus-cdc/pull/110) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
