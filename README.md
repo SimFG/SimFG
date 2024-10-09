@@ -16,9 +16,9 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36593](https://github.com/milvus-io/milvus/issues/36593) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 💪 Opened PR [#139](https://github.com/zilliztech/milvus-cdc/pull/139) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+2. 🗣 Commented on [#36593](https://github.com/milvus-io/milvus/issues/36593) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 3. 🗣 Commented on [#36307](https://github.com/milvus-io/milvus/issues/36307) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 4. 🗣 Commented on [#36307](https://github.com/milvus-io/milvus/issues/36307) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. ❗️ Opened issue [#3](https://github.com/SimFG/expr/issues/3) in [SimFG/expr](https://github.com/SimFG/expr)
+5. 🗣 Commented on [#36307](https://github.com/milvus-io/milvus/issues/36307) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
