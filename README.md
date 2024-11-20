@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37272](https://github.com/milvus-io/milvus/issues/37272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#37272](https://github.com/milvus-io/milvus/issues/37272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#37209](https://github.com/milvus-io/milvus/issues/37209) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#37209](https://github.com/milvus-io/milvus/issues/37209) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#37272](https://github.com/milvus-io/milvus/issues/37272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+1. 💪 Opened PR [#37835](https://github.com/milvus-io/milvus/pull/37835) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. ❗️ Opened issue [#37834](https://github.com/milvus-io/milvus/issues/37834) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🗣 Commented on [#37272](https://github.com/milvus-io/milvus/issues/37272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 🗣 Commented on [#37272](https://github.com/milvus-io/milvus/issues/37272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#37209](https://github.com/milvus-io/milvus/issues/37209) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
