@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/zilliztech/deep-searcher/issues/60) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-2. 🗣 Commented on [#59](https://github.com/zilliztech/deep-searcher/issues/59) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-3. 🗣 Commented on [#58](https://github.com/zilliztech/deep-searcher/issues/58) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-4. 🗣 Commented on [#57](https://github.com/zilliztech/deep-searcher/issues/57) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-5. 💪 Opened PR [#56](https://github.com/zilliztech/deep-searcher/pull/56) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 🗣 Commented on [#67](https://github.com/zilliztech/deep-searcher/issues/67) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+2. 🗣 Commented on [#182](https://github.com/zilliztech/milvus-cdc/issues/182) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+3. ❗️ Closed issue [#180](https://github.com/zilliztech/milvus-cdc/issues/180) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+4. ❗️ Closed issue [#40109](https://github.com/milvus-io/milvus/issues/40109) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#66](https://github.com/zilliztech/deep-searcher/issues/66) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
 <!--END_SECTION:activity-->
 
