@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#416](https://github.com/milvus-io/milvus-proto/pull/416) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
-2. 💪 Opened PR [#415](https://github.com/milvus-io/milvus-proto/pull/415) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
-3. 🗣 Commented on [#77](https://github.com/zilliztech/deep-searcher/issues/77) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-4. ❗️ Opened issue [#40178](https://github.com/milvus-io/milvus/issues/40178) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 💪 Opened PR [#414](https://github.com/milvus-io/milvus-proto/pull/414) in [milvus-io/milvus-proto](https://github.com/milvus-io/milvus-proto)
+1. 🗣 Commented on [#40192](https://github.com/milvus-io/milvus/issues/40192) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 🗣 Commented on [#40195](https://github.com/milvus-io/milvus/issues/40195) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🗣 Commented on [#81](https://github.com/zilliztech/deep-searcher/issues/81) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+4. ❗️ Closed issue [#81](https://github.com/zilliztech/deep-searcher/issues/81) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+5. 🗣 Commented on [#40195](https://github.com/milvus-io/milvus/issues/40195) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
