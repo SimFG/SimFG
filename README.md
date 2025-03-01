@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) creator
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/zilliztech/deep-searcher/issues/88) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-2. 🗣 Commented on [#87](https://github.com/zilliztech/deep-searcher/issues/87) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-3. 🗣 Commented on [#67](https://github.com/zilliztech/deep-searcher/issues/67) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-4. 🗣 Commented on [#88](https://github.com/zilliztech/deep-searcher/issues/88) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-5. 🗣 Commented on [#85](https://github.com/zilliztech/deep-searcher/issues/85) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 🗣 Commented on [#97](https://github.com/zilliztech/deep-searcher/issues/97) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+2. 🗣 Commented on [#63](https://github.com/zilliztech/deep-searcher/issues/63) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+3. 🗣 Commented on [#88](https://github.com/zilliztech/deep-searcher/issues/88) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+4. 🗣 Commented on [#93](https://github.com/zilliztech/deep-searcher/issues/93) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+5. 💪 Opened PR [#94](https://github.com/zilliztech/deep-searcher/pull/94) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
 <!--END_SECTION:activity-->
 
