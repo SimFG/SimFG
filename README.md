@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/zilliztech/deep-searcher/issues/179) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-2. 🗣 Commented on [#178](https://github.com/zilliztech/deep-searcher/issues/178) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-3. 🗣 Commented on [#178](https://github.com/zilliztech/deep-searcher/issues/178) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-4. 🗣 Commented on [#167](https://github.com/zilliztech/deep-searcher/issues/167) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-5. 🗣 Commented on [#175](https://github.com/zilliztech/deep-searcher/issues/175) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 🗣 Commented on [#19652](https://github.com/etcd-io/etcd/issues/19652) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+2. 💪 Opened PR [#42](https://github.com/zilliztech/spark-milvus/pull/42) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
+3. 🗣 Commented on [#39](https://github.com/zilliztech/spark-milvus/issues/39) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
+4. 💪 Opened PR [#181](https://github.com/zilliztech/deep-searcher/pull/181) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+5. 🗣 Commented on [#180](https://github.com/zilliztech/deep-searcher/issues/180) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
 <!--END_SECTION:activity-->
 
