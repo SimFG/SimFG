@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19652](https://github.com/etcd-io/etcd/issues/19652) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-2. 💪 Opened PR [#42](https://github.com/zilliztech/spark-milvus/pull/42) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
-3. 🗣 Commented on [#39](https://github.com/zilliztech/spark-milvus/issues/39) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
-4. 💪 Opened PR [#181](https://github.com/zilliztech/deep-searcher/pull/181) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-5. 🗣 Commented on [#180](https://github.com/zilliztech/deep-searcher/issues/180) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 💪 Opened PR [#200](https://github.com/zilliztech/milvus-cdc/pull/200) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+2. 💪 Opened PR [#199](https://github.com/zilliztech/milvus-cdc/pull/199) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+3. ❗️ Closed issue [#40178](https://github.com/milvus-io/milvus/issues/40178) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 🗣 Commented on [#19652](https://github.com/etcd-io/etcd/issues/19652) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+5. 💪 Opened PR [#42](https://github.com/zilliztech/spark-milvus/pull/42) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
 <!--END_SECTION:activity-->
 
