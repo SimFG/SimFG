@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#510](https://github.com/bytedance/UI-TARS-desktop/issues/510) in [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-2. 💪 Opened PR [#214](https://github.com/zilliztech/milvus-cdc/pull/214) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-3. 🗣 Commented on [#213](https://github.com/zilliztech/milvus-cdc/issues/213) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-4. 🗣 Commented on [#202](https://github.com/zilliztech/deep-searcher/issues/202) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-5. 🗣 Commented on [#200](https://github.com/zilliztech/deep-searcher/issues/200) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+3. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#41318](https://github.com/milvus-io/milvus/issues/41318) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#1894](https://github.com/AutomaApp/automa/issues/1894) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
 <!--END_SECTION:activity-->
 
