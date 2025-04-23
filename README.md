@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+1. ❗️ Opened issue [#191](https://github.com/mark3labs/mcp-go/issues/191) in [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 2. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 3. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-4. 🗣 Commented on [#41318](https://github.com/milvus-io/milvus/issues/41318) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#1894](https://github.com/AutomaApp/automa/issues/1894) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+4. 🗣 Commented on [#662](https://github.com/zilliztech/GPTCache/issues/662) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+5. 🗣 Commented on [#41318](https://github.com/milvus-io/milvus/issues/41318) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
