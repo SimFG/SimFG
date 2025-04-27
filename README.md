@@ -16,9 +16,9 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-2. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-3. ❗️ Closed issue [#191](https://github.com/mark3labs/mcp-go/issues/191) in [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
-4. 🗣 Commented on [#212](https://github.com/zilliztech/deep-searcher/issues/212) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-5. 🗣 Commented on [#212](https://github.com/zilliztech/deep-searcher/issues/212) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+2. 🗣 Commented on [#214](https://github.com/zilliztech/deep-searcher/issues/214) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+3. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+4. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+5. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 <!--END_SECTION:activity-->
 
