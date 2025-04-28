@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-2. 🗣 Commented on [#214](https://github.com/zilliztech/deep-searcher/issues/214) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 🗣 Commented on [#211](https://github.com/zilliztech/deep-searcher/issues/211) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+2. 🗣 Commented on [#213](https://github.com/zilliztech/deep-searcher/issues/213) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
 3. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-4. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+4. 🗣 Commented on [#214](https://github.com/zilliztech/deep-searcher/issues/214) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
 5. 🗣 Commented on [#6410](https://github.com/ChatGPTNextWeb/NextChat/issues/6410) in [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 <!--END_SECTION:activity-->
 
