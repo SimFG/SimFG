@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#211](https://github.com/zilliztech/milvus-cdc/pull/211) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-2. 🗣 Commented on [#218](https://github.com/zilliztech/deep-searcher/issues/218) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-3. 🗣 Commented on [#216](https://github.com/zilliztech/deep-searcher/issues/216) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-4. 🗣 Commented on [#41594](https://github.com/milvus-io/milvus/issues/41594) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#215](https://github.com/zilliztech/deep-searcher/issues/215) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 💪 Opened PR [#41679](https://github.com/milvus-io/milvus/pull/41679) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#41678](https://github.com/milvus-io/milvus/pull/41678) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. ❗️ Opened issue [#41677](https://github.com/milvus-io/milvus/issues/41677) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+4. 🗣 Commented on [#25655](https://github.com/milvus-io/milvus/issues/25655) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#22272](https://github.com/milvus-io/milvus/issues/22272) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
