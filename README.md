@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41764](https://github.com/milvus-io/milvus/issues/41764) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#41761](https://github.com/milvus-io/milvus/issues/41761) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-3. 🗣 Commented on [#41694](https://github.com/milvus-io/milvus/issues/41694) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#41694](https://github.com/milvus-io/milvus/issues/41694) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-5. 🗣 Commented on [#219](https://github.com/zilliztech/deep-searcher/issues/219) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+1. 💪 Opened PR [#41799](https://github.com/milvus-io/milvus/pull/41799) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 💪 Opened PR [#41798](https://github.com/milvus-io/milvus/pull/41798) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. ❗️ Opened issue [#868](https://github.com/zilliztech/attu/issues/868) in [zilliztech/attu](https://github.com/zilliztech/attu)
+4. 🗣 Commented on [#41764](https://github.com/milvus-io/milvus/issues/41764) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#41761](https://github.com/milvus-io/milvus/issues/41761) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 <!--END_SECTION:activity-->
 
