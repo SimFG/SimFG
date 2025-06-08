@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/zilliztech/spark-milvus/pull/46) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
-2. 🗣 Commented on [#45](https://github.com/zilliztech/spark-milvus/issues/45) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
-3. 🗣 Commented on [#38](https://github.com/zilliztech/spark-milvus/issues/38) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
-4. 🗣 Commented on [#2106](https://github.com/milvus-io/pymilvus/issues/2106) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
-5. 🗣 Commented on [#38](https://github.com/zilliztech/spark-milvus/issues/38) in [zilliztech/spark-milvus](https://github.com/zilliztech/spark-milvus)
+1. ❗️ Closed issue [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+2. 🗣 Commented on [#1894](https://github.com/AutomaApp/automa/issues/1894) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+3. 🗣 Commented on [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+4. ❗️ Opened issue [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+5. ❗️ Closed issue [#2031](https://github.com/AutomaApp/automa/issues/2031) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
 <!--END_SECTION:activity-->
 
