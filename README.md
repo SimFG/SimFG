@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
-2. 🗣 Commented on [#1894](https://github.com/AutomaApp/automa/issues/1894) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
-3. 🗣 Commented on [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
-4. ❗️ Opened issue [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
-5. ❗️ Closed issue [#2031](https://github.com/AutomaApp/automa/issues/2031) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+1. ❗️ Opened issue [#914](https://github.com/zilliztech/attu/issues/914) in [zilliztech/attu](https://github.com/zilliztech/attu)
+2. 🗣 Commented on [#227](https://github.com/zilliztech/milvus-cdc/issues/227) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+3. ❗️ Closed issue [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+4. 🗣 Commented on [#1894](https://github.com/AutomaApp/automa/issues/1894) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+5. 🗣 Commented on [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
 <!--END_SECTION:activity-->
 
