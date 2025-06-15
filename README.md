@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/zilliztech/milvus-cdc/issues/206) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-2. ❗️ Opened issue [#914](https://github.com/zilliztech/attu/issues/914) in [zilliztech/attu](https://github.com/zilliztech/attu)
-3. 🗣 Commented on [#227](https://github.com/zilliztech/milvus-cdc/issues/227) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-4. ❗️ Closed issue [#2032](https://github.com/AutomaApp/automa/issues/2032) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
-5. 🗣 Commented on [#1894](https://github.com/AutomaApp/automa/issues/1894) in [AutomaApp/automa](https://github.com/AutomaApp/automa)
+1. 🗣 Commented on [#40599](https://github.com/milvus-io/milvus/issues/40599) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+2. 🗣 Commented on [#41677](https://github.com/milvus-io/milvus/issues/41677) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🗣 Commented on [#206](https://github.com/zilliztech/milvus-cdc/issues/206) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+4. ❗️ Opened issue [#914](https://github.com/zilliztech/attu/issues/914) in [zilliztech/attu](https://github.com/zilliztech/attu)
+5. 🗣 Commented on [#227](https://github.com/zilliztech/milvus-cdc/issues/227) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
