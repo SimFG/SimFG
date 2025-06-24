@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/zilliztech/milvus-cdc/issues/206) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+1. ❗️ Opened issue [#23](https://github.com/byodian/oneimg/issues/23) in [byodian/oneimg](https://github.com/byodian/oneimg)
 2. 🗣 Commented on [#206](https://github.com/zilliztech/milvus-cdc/issues/206) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-3. ❗️ Closed issue [#41938](https://github.com/milvus-io/milvus/issues/41938) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-4. 🗣 Commented on [#229](https://github.com/zilliztech/milvus-cdc/issues/229) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-5. 🗣 Commented on [#42784](https://github.com/milvus-io/milvus/issues/42784) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+3. 🗣 Commented on [#206](https://github.com/zilliztech/milvus-cdc/issues/206) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+4. ❗️ Closed issue [#41938](https://github.com/milvus-io/milvus/issues/41938) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+5. 🗣 Commented on [#229](https://github.com/zilliztech/milvus-cdc/issues/229) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
