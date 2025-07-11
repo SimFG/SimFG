@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/zilliztech/deep-searcher/issues/252) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-2. 🎉 Merged PR [#668](https://github.com/zilliztech/GPTCache/pull/668) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
-3. 🗣 Commented on [#251](https://github.com/zilliztech/deep-searcher/issues/251) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
-4. 🗣 Commented on [#233](https://github.com/zilliztech/milvus-cdc/issues/233) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
-5. 🗣 Commented on [#232](https://github.com/zilliztech/milvus-cdc/issues/232) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+1. 🗣 Commented on [#669](https://github.com/zilliztech/GPTCache/issues/669) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+2. 🗣 Commented on [#252](https://github.com/zilliztech/deep-searcher/issues/252) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+3. 🎉 Merged PR [#668](https://github.com/zilliztech/GPTCache/pull/668) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+4. 🗣 Commented on [#251](https://github.com/zilliztech/deep-searcher/issues/251) in [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+5. 🗣 Commented on [#233](https://github.com/zilliztech/milvus-cdc/issues/233) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
