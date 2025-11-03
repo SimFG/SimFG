@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2354](https://github.com/explodinggradients/ragas/issues/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+1. 🗣 Commented on [#44305](https://github.com/milvus-io/milvus/issues/44305) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
 2. 🗣 Commented on [#2354](https://github.com/explodinggradients/ragas/issues/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-3. 💪 Opened PR [#2354](https://github.com/explodinggradients/ragas/pull/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-4. 🗣 Commented on [#249](https://github.com/zilliztech/milvus-cdc/issues/249) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+3. 🗣 Commented on [#2354](https://github.com/explodinggradients/ragas/issues/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+4. 💪 Opened PR [#2354](https://github.com/explodinggradients/ragas/pull/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 5. 🗣 Commented on [#208](https://github.com/zilliztech/milvus-cdc/issues/208) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
