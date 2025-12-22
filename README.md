@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44305](https://github.com/milvus-io/milvus/issues/44305) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
-2. 🗣 Commented on [#2354](https://github.com/explodinggradients/ragas/issues/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-3. 🗣 Commented on [#2354](https://github.com/explodinggradients/ragas/issues/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-4. 💪 Opened PR [#2354](https://github.com/explodinggradients/ragas/pull/2354) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+1. 🗣 Commented on [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+2. 🗣 Commented on [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+3. ❗️ Labeled issue [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+4. ❗️ Opened issue [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
 5. 🗣 Commented on [#208](https://github.com/zilliztech/milvus-cdc/issues/208) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
 <!--END_SECTION:activity-->
 
