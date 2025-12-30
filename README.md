@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+1. 🗣 Commented on [#366](https://github.com/Fission-AI/OpenSpec/issues/366) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 2. 🗣 Commented on [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
-3. ❗️ Labeled issue [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
-4. ❗️ Opened issue [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
-5. 🗣 Commented on [#208](https://github.com/zilliztech/milvus-cdc/issues/208) in [zilliztech/milvus-cdc](https://github.com/zilliztech/milvus-cdc)
+3. 🗣 Commented on [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+4. ❗️ Labeled issue [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+5. ❗️ Opened issue [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
 <!--END_SECTION:activity-->
 
