@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-2. 🗣 Commented on [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-3. ❗️ Opened issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-4. 🗣 Commented on [#366](https://github.com/Fission-AI/OpenSpec/issues/366) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-5. 🗣 Commented on [#1894](https://github.com/danielmiessler/Fabric/issues/1894) in [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+1. ❗️ Opened issue [#772](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/772) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+2. ❗️ Closed issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+3. 🗣 Commented on [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+4. ❗️ Opened issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+5. 🗣 Commented on [#366](https://github.com/Fission-AI/OpenSpec/issues/366) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 <!--END_SECTION:activity-->
 
