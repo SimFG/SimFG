@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1313](https://github.com/microsoft/playwright-mcp/issues/1313) in [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-2. ❗️ Opened issue [#772](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/772) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-3. ❗️ Closed issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-4. 🗣 Commented on [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-5. ❗️ Opened issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+1. 🗣 Commented on [#767](https://github.com/code-yeongyu/oh-my-opencode/issues/767) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+2. ❗️ Opened issue [#1313](https://github.com/microsoft/playwright-mcp/issues/1313) in [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+3. ❗️ Opened issue [#772](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/772) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+4. ❗️ Closed issue [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+5. 🗣 Commented on [#461](https://github.com/Fission-AI/OpenSpec/issues/461) in [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 <!--END_SECTION:activity-->
 
