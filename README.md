@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#560](https://github.com/iOfficeAI/AionUi/issues/560) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-2. ❗️ Opened issue [#560](https://github.com/iOfficeAI/AionUi/issues/560) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-3. 🗣 Commented on [#361](https://github.com/iOfficeAI/AionUi/issues/361) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-4. ❗️ Labeled issue [#2061](https://github.com/openclaw/openclaw/issues/2061) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-5. ❗️ Opened issue [#2061](https://github.com/openclaw/openclaw/issues/2061) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🗣 Commented on [#40](https://github.com/HKUDS/nanobot/issues/40) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+2. ❗️ Labeled issue [#560](https://github.com/iOfficeAI/AionUi/issues/560) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+3. ❗️ Opened issue [#560](https://github.com/iOfficeAI/AionUi/issues/560) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+4. 🗣 Commented on [#361](https://github.com/iOfficeAI/AionUi/issues/361) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+5. ❗️ Labeled issue [#2061](https://github.com/openclaw/openclaw/issues/2061) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
