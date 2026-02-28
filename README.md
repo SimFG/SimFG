@@ -9,7 +9,7 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 📫 How to reach me:
 
 [![Connect on Mail](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:1142838399@qq.com)
-[![Twitter](https://img.shields.io/twitter/follow/FogSim?style=social)](https://twitter.com/FogSim) [![Twitter](https://img.shields.io/twitter/follow/FogSim?style=social)](https://twitter.com/SimFu38145)
+[![Twitter](https://img.shields.io/twitter/follow/FogSim?style=social)](https://twitter.com/FogSim) [![Twitter](https://img.shields.io/twitter/follow/SimFu38145?style=social)](https://twitter.com/SimFu38145)
 [![Discord](https://img.shields.io/discord/1092648432495251507?label=Discord&logo=discord)](https://discord.gg/Q8C6WEjSWV)
 
 ### :zap: Recent Activity
