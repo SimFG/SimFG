@@ -15,8 +15,8 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/riba2534/feishu-cli/issues/6) in [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli)
-2. 🗣 Commented on [#40](https://github.com/HKUDS/nanobot/issues/40) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+1. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 3. 🗣 Commented on [#40](https://github.com/HKUDS/nanobot/issues/40) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 4. ❗️ Opened issue [#560](https://github.com/iOfficeAI/AionUi/issues/560) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 5. 🗣 Commented on [#361](https://github.com/iOfficeAI/AionUi/issues/361) in [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
