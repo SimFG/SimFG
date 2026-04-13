@@ -15,10 +15,10 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. ❌ Merged PR [#17](https://github.com/MagicCube/helixent/pull/17) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
-3. 💪 Opened PR [#17](https://github.com/MagicCube/helixent/pull/17) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
-4. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 💪 Opened PR [#31](https://github.com/MagicCube/helixent/pull/31) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
+2. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+3. ❌ Merged PR [#17](https://github.com/MagicCube/helixent/pull/17) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
+4. 💪 Opened PR [#17](https://github.com/MagicCube/helixent/pull/17) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
 5. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
 
