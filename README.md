@@ -15,7 +15,7 @@ I'm SimFG, [GPTCache](https://github.com/zilliztech/GPTCache) [deep searcher](ht
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/MagicCube/helixent/issues/31) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
+1. 🗣 Commented on [#3015](https://github.com/anomalyco/models.dev/issues/3015) in [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
 2. 🗣 Commented on [#21502](https://github.com/anomalyco/opencode/issues/21502) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 3. ❌ Merged PR [#17](https://github.com/MagicCube/helixent/pull/17) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
 4. 💪 Opened PR [#17](https://github.com/MagicCube/helixent/pull/17) in [MagicCube/helixent](https://github.com/MagicCube/helixent)
